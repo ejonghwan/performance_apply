@@ -18,9 +18,9 @@ function getParametersForUnsplash({width, height, quality, format}) {
  * */
 function removeSpecialCharacter(str) {
   // const removeCharacters = ['#', '_', '*', '~', '&', ';', '!', '[', ']', '`', '>', '\n', '=', '-']
-  // let _str = str
-  // let i = 0,
-  //   j = 0
+  // let _str = str;
+  // let i = 0;
+  // let j = 0;
 
   // for (i = 0; i < removeCharacters.length; i++) {
   //   j = 0
